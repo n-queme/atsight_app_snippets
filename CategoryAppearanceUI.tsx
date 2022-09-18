@@ -1,5 +1,5 @@
 //
-//  CategoryAppearance.tsx
+//  CategoryAppearanceUI.tsx
 //  AtSight version 1.0.0
 //
 //  Created by Nathan Quême.
