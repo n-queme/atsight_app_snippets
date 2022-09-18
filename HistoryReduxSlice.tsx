@@ -1,5 +1,5 @@
 //
-//  relatedItemsSlice.tsx
+//  HistoryReduxSlice.tsx.tsx
 //  AtSight version 1.0.0
 //
 //  Created by Nathan Quême on 06/03/22.
