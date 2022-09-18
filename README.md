@@ -5,6 +5,6 @@ The purpose of this repository is to share code snippets to show how the code is
 
 Please, do not use the code.
 
-![Home page preview](mobile_app_home_preview.png)
+![Mobile app preview](mobile_app_preview.png)
 
 
